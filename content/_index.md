@@ -1,11 +1,11 @@
 ---
-header_brand: "Builders Of The Future, Inc."
+header_brand: "We create immersive web applications"
 header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
 header_button_cta:
-  url: "#contact-form"
+  url: ""
   title: "Get in touch"
 header_button_more:
-  url: "#the-future---today"
+  url: ""
   title: "Why this is awesome?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
@@ -36,15 +36,13 @@ Check out this sweet preview. Impressed much, are you?
 
 Let's keep it simple. This is our contact information:
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
+Warsame Osman
+Toronto, Ontario
+Canada
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
+E-mail: osman.warsame@gmail.com
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+WebEClear is a premier web design and development agency dedicated to bringing our clients' digital visions to life. With a team of talented designers, developers, and digital strategists, we specialize in creating stunning and functional websites tailored to meet the unique needs of businesses and individuals.
 
 ---
 
